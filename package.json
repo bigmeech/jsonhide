@@ -1,0 +1,24 @@
+{
+  "name": "jsoncrypt",
+  "version": "0.1.0",
+  "description": "Store and retrieve secret values in json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigmeech/jsoncrypt.git"
+  },
+  "keywords": [
+    "encryption",
+    "json",
+    "secret"
+  ],
+  "author": "Larry Eliemenye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigmeech/jsoncrypt/issues"
+  },
+  "homepage": "https://github.com/bigmeech/jsoncrypt#readme"
+}

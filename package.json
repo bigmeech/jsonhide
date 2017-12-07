@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/bigmeech/jsoncrypt#readme",
   "dependencies": {
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.4",
     "yargs": "^10.0.3"
   }
 }

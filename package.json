@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bigmeech/jsoncrypt/issues"
   },
-  "homepage": "https://github.com/bigmeech/jsoncrypt#readme"
+  "homepage": "https://github.com/bigmeech/jsoncrypt#readme",
+  "dependencies": {
+    "yargs": "^10.0.3"
+  }
 }

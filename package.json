@@ -1,7 +1,7 @@
 {
   "name": "jsoncrypt",
   "version": "0.1.0",
-  "description": "Store and retrieve secret values in json files",
+  "description": "This module lets you store secret values in json files",
   "main": "index.js",
   "scripts": {
     "test": "semistandard . && mocha test"

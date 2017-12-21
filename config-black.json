@@ -1,0 +1,25 @@
+{
+    "redis": {
+        "auth": {
+            "password": "Rwm8ATTwtCiFW/oy6pp9N4NxDP755dOZnTS7NMf8XJFU40tKyI5oEuKTo71MR4R7fvuZJCqy/aDySW5h8NPnOw=="
+        }
+    },
+    "mongo": {
+        "config": {
+            "db_password": "1EE28ThJYb4dhF19RCYqyB3+s8RQREZLkyYZwY9MjL6PBtzT0s3ZXBg1CIRBrPIQgdrzxUQYJnOrtvLv1TciXg=="
+        }
+    },
+    "aws": {
+        "config": {
+            "accessSecret": "TWdF43zIeE4QZWyfO0JfM9PcBivOHOvhvOxYVoq3v/XI1NSKDSe0CIe7I0f9pO114zTVdtpxXIgXMtZENZuh7Q==",
+            "accessId": "mM5DQW+bvftyfaUCRoyaYl77cG/tC221j0YPc+ovm4kMuNLNBMRH6TZprnDXQOWbaMF9uEORP0OCrzHGj84lBt+c3b7QIBWzMea3Hnx2JU2RCMZbRSYPkCtcc7sKL+JA4tVeQZ+EVPHr/rQOUQNMEFryQdIj+IOWTm8ycNSsj+s/ExOLCleTLK6+zVVKd3qW6r8Y4jLNzeCUUJ+9AY8YuUzfX025XxR/D2wM3JUUC0dv9faaaXP759KB2SUNe1Q1zV8ZfY3ZvG3EY9MO7wL5JC80BoKzamxfWu4tBvzPmhnKCApvXJxuEvp1NolhO4EQGEQpsCT+BNVsCj2LfSmHXw=="
+        }
+    },
+    "gcloud": {
+        "smerck": "QSX+jq6bnSORmHCCWuMKyGDlnVLEbtY+wQPE73m30ElCVIGlaubsmU8vOfYb1Mwc0CQ3VCTj893kYsEeQRskgjiT8/rKolVWpD5jzWrukCWnrEbZDySwZXRt+hkh79vtgXtq72DMNq65oOAK05Bdy/YZPnhRI/ikl8lwuV/o8Rg6TXG0Jb/jT7KlbxvYA4VGWbB4z/8DK6JaCV/mb1gu/zaWX672bY17GdASMY0OdsIQuQ4FPnJTtb8eA4rOLQOsMT3NmmguFQjddwEYpUQaYVuL5GQ95K4Q9nodQrpzWDpqP+nvG1MfB59HxsZhm3L0WnGJHOd5LvY17SkQ8m2ojA=="
+    },
+    "twillo": {
+        "api-key": "sHm52v1FVZTZDX1vkcnA6N6XjgziKiNVRdKxPu5Rsj3KUm7+YtwAeT1rV/nuxOl5jClsi1Pl4sIXaR7kZ9bQDWsE4Eie+FQv+OwCGAxw5zdx0ex6u3oHG8yViQA8SHHVzvmameKZ0SX61B2AZbXcuf0UJnLO5jNMLr4We5faGuWIIRLwjeF/QUiVuiq6SaVDvV8vZwkDN4GdjaLAowfTVJwPY+IALkczc6Nbv8hBi/WlnGi2jKjag+0aSS9sZGDuQi3pQzMDeoGWiMQDCu1jGw2I70VuoRSbq3lNM4DTaPF2Da9mS7U2BJYsVWsq2xtpa4GBq+6AakfKBE06HkF16g==",
+        "api-secret": "rtSVMhWkp5al9aWEgPOWsQ9hLnajuqU3Idw6OkT2Ph6xBE9u4KfWD72NviS/0N3C/QEUNf4xfTEd8rxDPq7Wh/v0VugNJedvvme+nhiPEh0hXBJF6Xj9T3SCpI6jedNRRBJx7qL2oPJ9J+KnOhtt7THAp2A5aRbQV1OQsPBDk8Wdyve1LtAG3CuNEzOgODmYTR5Rn7oHr66FhEBBVF2oieSkwjyhrvbdHlEddxGopOy5VvNvsfimfEZxa4fFNl+PnnHUrPn6R6UiETLBuSiHjDHUl1obd/CMMAD1GTKjGQsAFLg4+fGOXTmbTMbfMIiUhdbQvOZ/rkToTsHtyFjRsQ=="
+    }
+}

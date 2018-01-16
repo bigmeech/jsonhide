@@ -1,10 +1,10 @@
-### JSONCRYPT
+### JSONHIDE
 
 A very simple utility that lets you store secret values in json files.
 
 ## Installation
 
-``` npm install jsoncrypt --save ```
+``` npm install jsonhide --save ```
 
 ## CLI
 
@@ -15,14 +15,14 @@ To read values from code
 
 ```js
 const path = require('path');
-const JSONCrypt = require('jsoncrypt');
+const Hide = require('jsonhide');
 
-const crypt = JSONCrypt({ 
+const hide = Hide({ 
     configPath: 'config.json',
-    rsaPrivateKeyPath: path.resolve(__dirname, process.cwd(),'./.jsoncrypt.private'),
+    rsaPrivateKeyPath: path.resolve(__dirname, process.cwd(),'./.jsonhide.private'),
 });
 
-const apiKey = crypt.getValue('github.apiKey')
+const apiKey = hide.getValue('github.apiKey')
 
 console.log(apiKey) // real api key;
 ```

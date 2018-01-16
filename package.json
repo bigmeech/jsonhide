@@ -1,6 +1,6 @@
 {
   "name": "jsonhide",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This module lets you store secret values in json files",
   "main": "index.js",
   "scripts": {
